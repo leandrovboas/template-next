@@ -4,7 +4,6 @@
 [![React.js](https://img.shields.io/badge/-ReactJs-blue)](https://pt-br.reactjs.org/)
 [![Typescript](https://img.shields.io/badge/-Typescript-blue)](https://www.typescriptlang.org/)
 
-
 <br/>
 <div>
 ![alt text](/images/nextjstseslintprettier.png)
@@ -35,6 +34,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 # **Contact**
 
-### Developed by  Leandro Vilas Boas - **leandrvboas@msn.com**
+### Developed by Leandro Vilas Boas - **leandrvboas@msn.com**
+
 [Github](https://github.com/leandrovboas) - **https://github.com/leandrovboas** </br>
 [Linkedin](https://br.linkedin.com/in/leandro-vilas-boas-55403b2b) - **https://br.linkedin.com/in/leandro-vilas-boas-55403b2b**
