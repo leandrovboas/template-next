@@ -5,14 +5,15 @@
 [![Typescript](https://img.shields.io/badge/-Typescript-blue)](https://www.typescriptlang.org/)
 
 <br/>
-<div>
-![alt text](/images/nextjstseslintprettier.png)
-</div>
+
 
 <div align="center">
     <h1 color="#ffff" >Initial project config with Next Js, Typescript, ESlint, Prettier and Styled-Components</h1>
     </br>
 </div>
+<br/>
+
+  ![alt text](/images/nextjstseslintprettier.png)
 
 # <strong>About the project</strong>
 
@@ -34,7 +35,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 # **Contact**
 
-### Developed by Leandro Vilas Boas - **leandrvboas@msn.com**
+### Developed by Leandro Vilas Boas
+[Linkedin](https://br.linkedin.com/in/leandro-vilas-boas-55403b2b) <br/>
+[Github](https://github.com/leandrovboas) 
 
-[Github](https://github.com/leandrovboas) - **https://github.com/leandrovboas** </br>
-[Linkedin](https://br.linkedin.com/in/leandro-vilas-boas-55403b2b) - **https://br.linkedin.com/in/leandro-vilas-boas-55403b2b**
